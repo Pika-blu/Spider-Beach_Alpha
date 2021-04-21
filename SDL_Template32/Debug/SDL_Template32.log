@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Example 12-01 - Object Pooling.vcxproj, Example 12-02 - Asteroid Spawn Timer.vcxproj, Example 12-03 - Collision Manager.vcxproj, Example 10-05.vcxproj, Example 12-01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\Users\Frown\Downloads\Spider Beach_Lyra_Karl_Beta\SDL_Template32\Game.h(118,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Frown\Downloads\Spider Beach_Lyra_Karl_Beta\SDL_Template32\Game.cpp(193,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Spider Beach_Lyra_Karl_Beta\SDL_Template32\Game.cpp(193,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Spider Beach_Lyra_Karl_Beta\SDL_Template32\Game.cpp(274,25): warning C4018: '<': signed/unsigned mismatch
+  SDL_Template32.vcxproj -> C:\Users\Frown\Downloads\Spider Beach_Lyra_Karl_Beta\Debug\Game Fund Beta.exe
